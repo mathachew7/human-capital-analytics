@@ -62,7 +62,6 @@ Human-Capital-Analytics/
 
 ## 📬 Author
 
-**Subash Yadav**  
-[LinkedIn]((https://www.linkedin.com/in/mathachew7/))  
-[LinkedIn]()  
+**Subash Yadav**   
+[LinkedIn](https://www.linkedin.com/in/mathachew7)  
 [GitHub](https://github.com/mathachew7)  
